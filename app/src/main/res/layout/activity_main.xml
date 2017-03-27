@@ -21,52 +21,22 @@
     <Button
         android:id="@+id/btn_1"
         android:text="@string/btn_1"
-        android:layout_marginTop="@dimen/m_4"
-        android:layout_gravity="center"
-        android:gravity="center"
-        android:background="@color/btn_bg"
-        android:textColor="@color/white"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        style="@style/btn_Style" />
 
     <Button
         android:id="@+id/btn_2"
         android:text="@string/btn_2"
-        android:layout_marginTop="@dimen/m_4"
-        android:layout_gravity="center"
-        android:gravity="center"
-        android:background="@color/btn_bg"
-        android:textColor="@color/white"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        style="@style/btn_Style" />
     <Button
         android:id="@+id/btn_3"
         android:text="@string/btn_3"
-        android:layout_marginTop="@dimen/m_4"
-        android:layout_gravity="center"
-        android:gravity="center"
-        android:background="@color/btn_bg"
-        android:textColor="@color/white"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        style="@style/btn_Style" />
     <Button
         android:id="@+id/btn_4"
         android:text="@string/btn_4"
-        android:layout_marginTop="@dimen/m_4"
-        android:layout_gravity="center"
-        android:gravity="center"
-        android:background="@color/btn_bg"
-        android:textColor="@color/white"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        style="@style/btn_Style" />
     <Button
         android:id="@+id/btn_5"
         android:text="@string/btn_5"
-        android:layout_marginTop="@dimen/m_4"
-        android:layout_gravity="center"
-        android:gravity="center"
-        android:background="@color/btn_bg"
-        android:textColor="@color/white"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        style="@style/btn_Style"/>
 </LinearLayout>
